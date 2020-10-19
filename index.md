@@ -11,7 +11,7 @@
         font-size: 16px;
         margin: 4px 2px;
         cursor: pointer;
-        background-color: #4CAF50;
+        background-color: #0080ff;
       }
     </style>
   
