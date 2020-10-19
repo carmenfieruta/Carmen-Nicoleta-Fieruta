@@ -1,7 +1,4 @@
 <html>
-<head>
-  <title>Carmen's github page</title>
-</head>
  <body>
     <style>
       .button {
