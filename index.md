@@ -29,7 +29,7 @@
     </ul>
     
      <form action="https://www.linkedin.com/in/carmen-nicoleta-fieruta-b3775617b/">
-         <button class="button" type="submit">To LinkedIn</button>
+         <button class="button" type="submit">LinkedIn</button>
      </form>
   </body>
 
