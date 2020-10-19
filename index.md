@@ -34,6 +34,8 @@
      <form action="https://www.linkedin.com/in/carmen-nicoleta-fieruta-b3775617b/">
          <button class="button" type="submit">LinkedIn</button>
      </form>
+     
+     <img src="https://www.reactiongifs.us/wp-content/uploads/2018/06/Nice-to-meet-you.gif">
   </body>
 
 </html> 
