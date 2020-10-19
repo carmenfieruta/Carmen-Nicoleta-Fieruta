@@ -29,9 +29,8 @@
     </ul>
     
     <form>
-      <input type="button" onclick="window.location.href='https://www.linkedin.com/in/carmen-nicoleta-fieruta-b3775617b/';"/>
+      <input class="button" type="button" onclick="window.location.href='https://www.linkedin.com/in/carmen-nicoleta-fieruta-b3775617b/';"/>
     </form>
-    <button class="button">Green</button>
   </body>
 
 </html> 
