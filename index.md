@@ -28,9 +28,9 @@
       <li>Sleep</li>
     </ul>
     
-    <form>
-      <input class="button" type="button" onclick="window.location.href='https://www.linkedin.com/in/carmen-nicoleta-fieruta-b3775617b/';"/>
-    </form>
+     <form action="https://www.linkedin.com/in/carmen-nicoleta-fieruta-b3775617b/">
+         <button class="button" type="submit">To LinkedIn</button>
+     </form>
   </body>
 
 </html> 
